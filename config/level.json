@@ -1,0 +1,16 @@
+{
+  "start_position": [0, 2, -26],
+  "obstacles": [
+    {"position": [-4, 2, -17], "scale": [3, 4, 3]},
+    {"position": [5, 3, -12], "scale": [3, 6, 3]},
+    {"position": [-5, 2.5, -2], "scale": [3, 5, 3]},
+    {"position": [4, 2, 10], "scale": [3, 4, 3]},
+    {"position": [-2, 2, 24], "scale": [3, 4, 3]}
+  ],
+  "checkpoints": [
+    {"position": [0, 3, -8], "radius": 3},
+    {"position": [3, 5, 4], "radius": 3},
+    {"position": [-3, 4, 18], "radius": 3}
+  ],
+  "finish": {"position": [0, 4, 32], "radius": 4}
+}
